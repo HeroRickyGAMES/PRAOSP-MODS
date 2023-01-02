@@ -1,4 +1,4 @@
 PRAOSP-MORE-QSTILES-SETTINGSMOD
 ===========
 
-Para pegar todas as modificações da PRAOSP
+Para pegar as modificações do QSTILES
